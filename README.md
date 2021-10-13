@@ -2,6 +2,5 @@
 
 powered by react and firebase
 
-#author
-
+# Author
 Babadiya Samuel
